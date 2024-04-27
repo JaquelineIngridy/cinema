@@ -1,0 +1,18 @@
+.dark{
+    color: darkred
+}
+.blue{
+    color: darkblue;
+}
+a{
+    text-decoration: none;
+}
+h2 a{
+     color: seagreen;
+}
+p {
+   font-size: 20px;
+}
+h1,a,p{
+    font-family: Arial;
+}
